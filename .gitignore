@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Next.js
+frontend/.next/
+frontend/out/
+
+# Python
+__pycache__/
+*.py[cod]
+backend/.venv/
+backend/app/__pycache__/
+
+# Local generated review artifacts
+_review_frames/
+_video_contact_sheets/
+
+# Environment files
+.env
+.env.local
+frontend/.env.local
+
+# Logs
+*.log
+npm-debug.log*
