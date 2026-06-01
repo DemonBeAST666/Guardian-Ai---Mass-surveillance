@@ -219,7 +219,7 @@ h1, h2, h3, h4, strong, .btn, .mini-chip { font-family: var(--font-mono); letter
 .risk-high .risk-badge { color: var(--red); }
 .risk-medium .risk-badge { color: var(--amber); }
 .risk-normal .risk-badge { color: var(--green); }
-.net-title { margin-top: 8px; font-weight: 700; font-size: 0.9rem; }
+.net-title { margin-top: 8px; font-weight: 700; font-size: 0.9rem; color: var(--muted); }
 .net-desc { margin-top: 3px; color: var(--muted); font-size: 0.78rem; line-height: 1.35; }
 .net-bottom { margin-top: 9px; color: var(--dim); font-family: var(--font-mono); font-size: 0.67rem; }
 
